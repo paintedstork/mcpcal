@@ -4,6 +4,7 @@ library(rgeos)
 library(adehabitatHR)
 library(ggmap)
 library(ggplot2)
+library (mapproj)
 
 # Thresholds of IUCN
 EOO <- c(100, 2000, 20000)
